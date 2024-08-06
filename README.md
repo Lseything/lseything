@@ -6,7 +6,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lseything&show_icons=true&theme=graywhite&line_height=27" alt="**Lseything** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lseything&show_icons=true&theme=one_dark_pro&line_height=27" alt="**Lseything** github stats"/>
 </a>
 
 
