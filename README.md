@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lseything&show_icons=true&theme=dark&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lseything&show_icons=true&theme=graywhite&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
 
