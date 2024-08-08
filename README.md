@@ -4,6 +4,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 * Kernel Android Developer.
+* Daily Use: Xiaomi 13 Pro
 * MyDevices: Topaz, Sapphiren, Marble.
 
 
