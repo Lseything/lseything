@@ -4,7 +4,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 MyDevices: Topaz, Tapas, Sapphire, Sapphiren, Marble.
-Kernel Android and CustomRoms Developer.
+## Kernel Android and CustomRoms Developer.
 
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lseything&show_icons=true&theme=city_lights&line_height=27" alt="**Lseything** github stats"/>
