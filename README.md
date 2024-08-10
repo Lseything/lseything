@@ -1,4 +1,4 @@
-* Kernel Android Developer.
+#* Kernel Android Developer.
 * Main: Redmi Note 12 Turbo
 * Devices: Topaz & Marble.
 <a href="https://github.com/Gurupreet">
