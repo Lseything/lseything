@@ -1,4 +1,4 @@
-* My Work › https://github.com/lseything-projects
+* My Project › https://github.com/lseything-projects
 * Android Developer › Kernel
 * Devices › Topaz › Marble
 <a href="https://github.com/Gurupreet">
