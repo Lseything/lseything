@@ -1,5 +1,4 @@
 ![Profile](./github-header-image.png)
-* My Project › https://github.com/lseything-projects
 * Android Developer › Kernel
 * Devices › Topaz › Marble
 <!-- https://github.com/anuraghazra/github-readme-stats -->
