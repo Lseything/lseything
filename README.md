@@ -1,4 +1,4 @@
-![Profile](./github-header-image.gif)
+![Profile](./b0b6a7f35971c7c2e30ceeba06b80074.gif)
 * Android Developer
 * Devices › Topaz › Marble
 <!-- https://github.com/anuraghazra/github-readme-stats -->
