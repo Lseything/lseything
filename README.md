@@ -8,7 +8,7 @@ alex@workstation
 Username: Alex
 OS: Debian 12 
 Shell: zsh 5.9
-CPU: Intel I9 14900K (32) @ 6.0GHz
+CPU: Intel I9 14900K (24) @ 6.0GHz Turbo
 Memory : 64GB
 Telegram: @Lseything
 Pro : Android, Python, Shell
