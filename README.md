@@ -18,6 +18,7 @@ Hobbies:  Music, Gaming, Programation.
 
 ```
 ```zsh
+##
 
 * Android Kernel Development 
 * › https://github.com/my-android-development
