@@ -1,3 +1,14 @@
+---------------------------------------------------
+Username: Alex (Lseything)
+OS: Debian 12 
+Shell: zsh 5.9
+Languages: Shell, Python, Java
+CPU: Intel I9 14900K (16) @ 6.0GHz
+Memory : 550MiB / 643371MiB
+Telegram: @Lseything
+Pro : Android, JavaScript, Python, Shell
+Hobbies:  Music, Gaming, Programation.
+
 * Android Kernel Development 
 * › https://github.com/my-android-development
 <!-- https://github.com/anuraghazra/github-readme-stats -->
