@@ -8,11 +8,10 @@ alex@workstation
 Username: Alex (Lseything)
 OS: Debian 12 
 Shell: zsh 5.9
-Languages: Shell, Python, Java
 CPU: Intel I9 14900K (16) @ 6.0GHz
-Memory : 550MiB / 643371MiB
+Memory : 64GB
 Telegram: @Lseything
-Pro : Android, JavaScript, Python, Shell
+Pro : Android, Python, Shell
 Hobbies:  Music, Gaming, Programation.
 
 ```
