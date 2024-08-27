@@ -5,7 +5,6 @@
 
 ```csharp
 alex@workstation
-
 ---------------------------------------------------
 Username: Alex (Lseything)
 OS: Debian 12 
@@ -16,6 +15,9 @@ Memory : 550MiB / 643371MiB
 Telegram: @Lseything
 Pro : Android, JavaScript, Python, Shell
 Hobbies:  Music, Gaming, Programation.
+
+```
+```zsh
 
 * Android Kernel Development 
 * › https://github.com/my-android-development
