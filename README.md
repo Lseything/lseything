@@ -5,7 +5,7 @@ https://github.com/my-android-development
 ```csharp
 alex@workstation
 ---------------------------------------------------
-Username: Alex (Lseything)
+Username: Alex
 OS: Debian 12 
 Shell: zsh 5.9
 CPU: Intel I9 14900K (16) @ 6.0GHz
