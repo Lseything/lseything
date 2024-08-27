@@ -1,6 +1,4 @@
-```zsh
-➜ neofetch
-```
+
 
 
 ```csharp
