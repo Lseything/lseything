@@ -18,8 +18,8 @@ Hobbies:  Music, Gaming, Programation.
 
 ```
 ```zsh
-##
-
+➜ My Stats 
+```
 * Android Kernel Development 
 * › https://github.com/my-android-development
 <!-- https://github.com/anuraghazra/github-readme-stats -->
