@@ -1,3 +1,11 @@
+```zsh
+➜ neofetch
+```
+
+
+```csharp
+alex@workstation
+
 ---------------------------------------------------
 Username: Alex (Lseything)
 OS: Debian 12 
