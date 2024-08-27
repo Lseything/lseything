@@ -9,6 +9,7 @@ Username: Alex
 OS: Debian 12 
 Shell: zsh 5.9
 CPU: Intel I9 14900K (24) @ 6.0GHz
+GPU: RTX 3050 Windforce 6GB
 Memory : 64GB
 Telegram: @Lseything
 Pro : Android, Python, Shell
