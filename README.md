@@ -1,5 +1,6 @@
 ```zsh
-➜ Android Kernel Development
+➜ My Personal Project 
+https://github.com/my-android-development
 ```
 ```csharp
 alex@workstation
