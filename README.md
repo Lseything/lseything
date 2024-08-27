@@ -1,7 +1,6 @@
 ```zsh
 ➜ Android Kernel Development
-
-
+```
 ```csharp
 alex@workstation
 ---------------------------------------------------
