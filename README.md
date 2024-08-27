@@ -1,4 +1,4 @@
-
+➜ Android Kernel Development
 
 
 ```csharp
@@ -16,9 +16,6 @@ Hobbies:  Music, Gaming, Programation.
 
 ```
 ```zsh
-➜ Android Kernel Development 
-
-```
 ➜ My Personal Project
 ```zsh
 ```
