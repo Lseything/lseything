@@ -2,5 +2,5 @@
 
 
 <p align="center">
-  <img src="github-contribution-grid-snake.gif"/>
+  <img src="github-contribution-grid-snake-dark.svg"/>
 </p>
