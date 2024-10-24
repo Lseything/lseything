@@ -8,4 +8,6 @@ card = {
     "description": "Passionate software engineer with a focus on Android development."
 }
 
-![Snake animation](./github-contribution-grid-snake.gif)
+<p align="center">
+  <img src="github-contribution-grid-snake.gif"/>
+</p>
