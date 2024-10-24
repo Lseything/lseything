@@ -8,4 +8,4 @@ card = {
     "description": "Passionate software engineer with a focus on Android development."
 }
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+![Snake animation](./github-contribution-grid-snake.gif)
