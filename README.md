@@ -8,3 +8,4 @@ card = {
     "description": "Passionate software engineer with a focus on Android development."
 }
 
+![Snake animation](./dist/snake.svg)
