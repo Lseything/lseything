@@ -1,0 +1,33 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Executa a cada 24 horas
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Puxa o repositório
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      # Instalação da Snake Animation
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Caminho do output da animação
+          output: dist/snake.svg
+
+      # Adiciona o arquivo gerado ao repositório
+      - name: Commit
+        run: |
+          git config --global user.name 'Alex Lseything'
+          git config --global user.email 'lseything@proton.me'
+          git add -A
+          git commit -m "gerar snake animation"
+          git push
