@@ -1,4 +1,4 @@
-  ```bash
+
 card = {
     "name": "Alex Lseything",
     "title": "Software Engineer",
